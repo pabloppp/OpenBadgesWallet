@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OpenBadgesWallet.iml" filepath="$PROJECT_DIR$/OpenBadgesWallet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openwallet/openwallet.iml" filepath="$PROJECT_DIR$/openwallet/openwallet.iml" />
+    </modules>
+  </component>
+</project>
+
